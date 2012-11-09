@@ -1,5 +1,5 @@
 ---
-title: Done is better is perfect.
+title: Done is better than perfect.
 layout: page
 ---
 
