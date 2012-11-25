@@ -10,6 +10,6 @@ title: 通过git简单地操作github
 
 **更新本地git**：运行：git add .  及  git commit -m "new blog"
 
-**提交云端**：git push origin gh-pages
+**提交云端**：运行：git push origin gh-pages
 
 通过以上4步，可以完成github上blog修改和更新的99%任务了。
