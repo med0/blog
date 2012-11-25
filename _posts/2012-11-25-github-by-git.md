@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 通过git简单地操作github
 ---
@@ -10,6 +10,7 @@ title: 通过git简单地操作github
 git clone https://github.com/med0/blog.git
 {% endhighlight %}
 
+- **修改更新：** 
 
 - **修改更新：** 在/_posts/文件夹中添加或者修改相应文章(文件)；
 
